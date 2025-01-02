@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0168-excel-sheet-column-title](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0168-excel-sheet-column-title](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0387-first-unique-character-in-a-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
