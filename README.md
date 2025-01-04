@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0387-first-unique-character-in-a-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
