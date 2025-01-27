@@ -6,7 +6,7 @@ public:
         }
         for (int i=0; i<image.size(); i++){
             for(int j=0; j<image[0].size(); j++){   
-                image[i][j] = image[i][j] ^ 1;     //accessing each element of the 2D matrix
+                image[i][j] = image[i][j] ^ 1;     //XORing each cell's value of the 2D matrix with 1 and then storing the result in that cell only
             }
         }
         return image; 
