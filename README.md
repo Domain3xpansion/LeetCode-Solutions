@@ -11,6 +11,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0812-rotate-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0812-rotate-string) |
 ## Queue
 |  |
@@ -76,6 +78,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0412-fizz-buzz](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 ## String Matching
