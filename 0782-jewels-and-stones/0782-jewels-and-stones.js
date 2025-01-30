@@ -12,6 +12,5 @@ var numJewelsInStones = function(jewels, stones) {
         }
     }
     return countjewels;
-
     // Overall T.C.: O(n*m), where n = length of 'stones' string and m = length of 'jewels' string
 };
