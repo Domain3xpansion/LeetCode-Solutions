@@ -12,6 +12,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Hash Table
@@ -101,6 +102,7 @@
 | [0231-power-of-two](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0861-flipping-an-image](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 ## Dynamic Programming
 |  |
