@@ -10,10 +10,10 @@ public:
             /*
             //if condition will be true only if we find out that there is already a number present 
             in the hash set which is equal to that number currently we are handling (loops endlessly in a cycle
-            which does not include 1.)And therefore, it will go inside that if loop and return false because that is 
-            not a happy number. The if condition will evaluate to false if no such element is available in the hash
-            set because find returns an iterator to the end of the set and visit.end() != visit.end() will evaluate 
-            to false.
+            which does not include 1.)And therefore, it will go inside of that if block and return false because 
+            that is not a happy number. The if condition will evaluate to false if no such element is available in 
+            the hash set because find returns an iterator to the end of the set and visit.end() != visit.end() will 
+            evaluate to false.
             */
             visit.insert(n);       // put the value of 'n' in the hash set
             int sum = 0;
