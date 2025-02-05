@@ -24,4 +24,7 @@ public:
     bool LY(int num){
         return ((num%100==0)&&(num%400==0)||(num%4==0)&&(num%100!=0));
     }
+
+    //Time Complexity = O(1)
+    //Space Complexity = O(1)
 };
