@@ -20,3 +20,6 @@ public:
         return oddf - evenf;
     }
 };
+
+//T.C. = O(n log k)
+//S.C.= O(k)
