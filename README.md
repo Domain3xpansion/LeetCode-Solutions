@@ -75,6 +75,7 @@
 | [0898-transpose-matrix](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,11 +89,13 @@
 | [0908-middle-of-the-linked-list](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0917-boats-to-save-people](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -101,6 +104,7 @@
 | [0414-third-maximum-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0917-boats-to-save-people](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Simulation
 |  |
 | ------- |
