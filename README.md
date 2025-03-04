@@ -79,6 +79,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [3723-sum-of-good-numbers](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3723-sum-of-good-numbers) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -158,4 +159,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Prefix Sum
+|  |
+| ------- |
+| [3731-sum-of-variable-length-subarrays](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3731-sum-of-variable-length-subarrays) |
 <!---LeetCode Topics End-->
