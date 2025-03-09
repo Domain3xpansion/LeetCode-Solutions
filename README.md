@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 ## Counting
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1848-sum-of-unique-elements](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3723-sum-of-good-numbers](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3723-sum-of-good-numbers) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -123,6 +125,7 @@
 | [0412-fizz-buzz](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 ## String Matching
 |  |
 | ------- |
