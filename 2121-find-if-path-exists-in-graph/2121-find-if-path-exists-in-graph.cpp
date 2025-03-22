@@ -18,8 +18,7 @@ public:
             adjl[u].push_back(v);
             adjl[v].push_back(u);
         }
-        vector<int> vis(n+1, 0);
-        vector<int> ls;
+        vector<int> vis(n+1, 0), ls;
         dfs(source, adjl, vis, ls);
         return find(ls.begin(), ls.end(), destination) != ls.end();
         
