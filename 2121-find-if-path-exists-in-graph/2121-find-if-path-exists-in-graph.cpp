@@ -11,14 +11,14 @@ public:
     }
 
     bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
-        vector<vector<int>> adjl(n);
-        for(int i=0; i<edges.size(); i++){
+        vector<vector<int>> adjl(n); // for storing the adjacency list
+        for(int i=0; i<edges.size(); i++){  // edges.size() denotes the no of edges present in the graph
             int u = edges[i][0];
             int v = edges[i][1];
             adjl[u].push_back(v);
             adjl[v].push_back(u);
         }
-        vector<int> vis(n+1, 0), ls;
+        vector<int> vis(n, 0), ls;
         dfs(source, adjl, vis, ls);
         return find(ls.begin(), ls.end(), destination) != ls.end();
         
