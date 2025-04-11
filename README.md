@@ -80,6 +80,7 @@
 | [0200-number-of-islands](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -105,6 +106,7 @@
 | [0189-rotate-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0861-flipping-an-image](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
@@ -144,6 +146,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
@@ -152,6 +155,7 @@
 | [0136-single-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0861-flipping-an-image](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
