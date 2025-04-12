@@ -75,6 +75,7 @@
 | [0011-container-with-most-water](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0792-binary-search) |
@@ -175,6 +177,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0861-flipping-an-image](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
