@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
@@ -74,6 +75,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -176,6 +178,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0200-number-of-islands) |
