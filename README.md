@@ -78,6 +78,7 @@
 | [0011-container-with-most-water](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -171,6 +172,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -194,6 +196,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
