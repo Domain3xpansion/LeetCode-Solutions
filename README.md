@@ -98,6 +98,7 @@
 | [0898-transpose-matrix](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1253-sort-the-matrix-diagonally](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1848-sum-of-unique-elements](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -140,6 +141,7 @@
 | [0268-missing-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0917-boats-to-save-people](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
+| [1253-sort-the-matrix-diagonally](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
@@ -198,6 +200,7 @@
 | [0200-number-of-islands](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0861-flipping-an-image](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
+| [1253-sort-the-matrix-diagonally](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1253-sort-the-matrix-diagonally) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Linked List
 |  |
