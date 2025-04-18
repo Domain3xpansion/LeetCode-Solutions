@@ -20,6 +20,7 @@
 | [1013-fibonacci-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1260-day-of-the-year](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1260-day-of-the-year) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2383-add-two-integers](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2383-add-two-integers) |
 ## Hash Table
 |  |
 | ------- |
