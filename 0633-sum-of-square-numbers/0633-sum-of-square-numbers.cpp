@@ -13,12 +13,12 @@ public:
         */
         long left = 0;
         long right = static_cast<int>(sqrt(c));
-        while (left <= right) {
+        while(left <= right){
             long total = left * left + right * right;
             if(total > c)
-                --right;
+                right--;
             else if (total < c)
-                ++left;
+                left++;
             else
                 return true;
         }
