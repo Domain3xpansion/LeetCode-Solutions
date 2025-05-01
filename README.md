@@ -22,6 +22,7 @@
 | [1013-fibonacci-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1260-day-of-the-year](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1260-day-of-the-year) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2383-add-two-integers](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2383-add-two-integers) |
 ## Hash Table
 |  |
@@ -204,6 +205,7 @@
 | [0338-counting-bits](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0861-flipping-an-image](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Dynamic Programming
 |  |
