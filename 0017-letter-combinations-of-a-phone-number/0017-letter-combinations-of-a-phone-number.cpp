@@ -1,5 +1,6 @@
 class Solution {
 public:
+    const vector<string> mapping = {"", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
     vector<string> helper(string p, string up){
         if(up.empty()){
             vector<string> l;
@@ -7,31 +8,11 @@ public:
             return l;
         }
         int digit = up[0] - '0';
+        string letter = mapping[digit];
         vector<string> list;
-        if(digit==7){
-            for(int i=(digit-2)*3; i<=(digit-1)*3; i++){
-                char ch = (char)('a' + i);
-                vector<string> subList = helper(p + ch, up.substr(1));
-                list.insert(list.end(), subList.begin(), subList.end());
-            }
-        }else if(digit == 9){
-            for(int i=(digit-2)*3+1; i<=(digit-1)*3+1; i++){
-                char ch = (char)('a' + i);
-                vector<string> subList = helper(p + ch, up.substr(1));
-                list.insert(list.end(), subList.begin(), subList.end());
-            }
-        }else if(digit == 8){
-            for(int i=(digit-2)*3+1; i<(digit-1)*3+1; i++){
-                char ch = (char)('a' + i);
-                vector<string> subList = helper(p + ch, up.substr(1));
-                list.insert(list.end(), subList.begin(), subList.end());
-            }
-        }else{
-            for(int i=(digit-2)*3; i<(digit-1)*3; i++){
-                char ch = (char)('a' + i);
-                vector<string> subList = helper(p + ch, up.substr(1));
-                list.insert(list.end(), subList.begin(), subList.end());
-            }
+        for(char ch : letter){
+            vector<string> subl = helper(p+ch, up.substr(1));
+            list.insert(list.end(), subl.begin(), subl.end());
         }
         return list;
     }
