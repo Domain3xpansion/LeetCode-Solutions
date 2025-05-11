@@ -1,17 +1,15 @@
 class Solution {
 public:
-    vector<vector<int>> helper(vector<int> vec, vector<int> current, vector<vector<int>>& result){
-        if(vec.empty()){
-            result.push_back(current);
-            return result;
+    void subsetr(int index, vector<int> vec, vector<vector<int>>& ans, vector<int>& ds){
+        if(index == vec.size()){
+            ans.push_back(ds);
+            return;
         }
-        int first = vec[0];
-        vector<int> rest(vec.begin() + 1, vec.end());
-        helper(rest, current, result);
-        current.push_back(first);
-        helper(rest, current, result);
-        return result;
-    }
+        subsetr(index+1, vec, ans, ds);    // not pick element
+        ds.push_back(vec[index]);
+        subsetr(index+1, vec, ans, ds);    // pick element 
+        ds.pop_back();
+    }  
 
     vector<vector<int>> subsets(vector<int>& nums) {
         /*vector<vector<int>> outer = {{}};
@@ -25,8 +23,9 @@ public:
         }
         return outer;
         */
-        vector<vector<int>> result;
-        vector<int> current;
-        return helper(nums, current, result);
+        vector<vector<int>> ans;
+        vector<int> ds;
+        subsetr(0, nums, ans, ds);
+        return ans;
     }
 };
