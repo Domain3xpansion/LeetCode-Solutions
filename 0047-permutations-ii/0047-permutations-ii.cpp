@@ -1,26 +1,30 @@
 class Solution {
 public:
-    void permutations(vector<int> vec, vector<int> freq, set<vector<int>> &ans, vector<int> &ds){
-        if(ds.size() == vec.size()){
-            ans.insert(ds);
+    void permuteUniquehelper(vector<int>& ds, unordered_map<int, int> &um, vector<vector<int>> &result, int n){
+        if(ds.size() == n) { 
+            result.push_back(ds);
             return;
         }
-        for(int i=0; i<vec.size(); i++){
-            if(!freq[i]){
-                ds.push_back(vec[i]);
-                freq[i] = 1;
-                permutations(vec, freq, ans, ds);
-                freq[i] = 0;
-                ds.pop_back();
-            }
+        for(auto& [num, count] : um){
+            if(count == 0)
+                continue;
+            ds.push_back(num);
+            um[num]--;
+            permuteUniquehelper(ds, um, result, n);
+            ds.pop_back();
+            um[num]++;
         }
     }
     
-    vector<vector<int>> permuteUnique(vector<int>& nums) {
-        vector<int> ds, freq(nums.size(), 0);
-        set<vector<int>> ans;
-        permutations(nums, freq, ans, ds);
-        vector<vector<int>> res(ans.begin(), ans.end());
-        return res;
+    vector<vector<int>> permuteUnique(vector<int>& nums){
+        int n = nums.size();
+        unordered_map<int, int> um;
+        for(auto& num : nums){     // count the occurrences of each number
+            um[num]++;
+        }
+        vector<int> temp;
+        vector<vector<int>> result;
+        permuteUniquehelper(temp, um, result, n);
+        return result;
     }
 };
