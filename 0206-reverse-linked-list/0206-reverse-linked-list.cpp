@@ -11,6 +11,7 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
+        // It is a recursive solution
         if(head == NULL || head->next == NULL) return head;      
         ListNode* newhead = reverseList(head->next);
         ListNode* front = head->next;      
