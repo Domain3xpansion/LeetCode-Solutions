@@ -9,6 +9,7 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
+        //Naive solution
         unordered_map<ListNode*, int> um;
         ListNode* temp = head;
         while(temp != NULL){
