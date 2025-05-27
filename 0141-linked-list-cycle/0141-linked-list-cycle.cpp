@@ -21,7 +21,7 @@ public:
             temp = temp->next;
         }
         return false;*/
-        // Tortoise and Hare Algo
+        // Tortoise and Hare Algo    TC = O(n)       SC = O(1)
         ListNode* slow = head;
         ListNode* fast = head;
         while(fast != NULL && fast->next != NULL){
