@@ -10,7 +10,7 @@ class Solution {
 public:
     bool hasCycle(ListNode *head) {
         //Naive solution
-        unordered_map<ListNode*, int> um;
+        /*unordered_map<ListNode*, int> um;
         ListNode* temp = head;
         while(temp != NULL){
             auto it = um.find(temp);
@@ -19,6 +19,16 @@ public:
             }
             um[temp] = 1;
             temp = temp->next;
+        }
+        return false;*/
+        // Tortoise and Hare Algo
+        ListNode* slow = head;
+        ListNode* fast = head;
+        while(fast != NULL && fast->next != NULL){
+            slow = slow->next;
+            fast = fast->next->next;
+            if(slow == fast)
+                return true;
         }
         return false;
     }
