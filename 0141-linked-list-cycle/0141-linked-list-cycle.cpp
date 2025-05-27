@@ -14,7 +14,7 @@ public:
         ListNode* temp = head;
         while(temp != NULL){
             auto it = um.find(temp);
-            if(it != um.end()){      // if that node already exists in the hashmap
+            if(it != um.end()){      // if that node already exists in the hashmap, that means cycle is detected
                 return true;
             }
             um[temp] = 1;
