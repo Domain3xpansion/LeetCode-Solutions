@@ -21,14 +21,14 @@ public:
         }
         k = k % count;
         tail->next = head;
-        ListNode* temp = head;
+        ListNode* newtail = head;
         count = count - k - 1;
         while(count){
-            temp = temp->next;
+            newtail = newtail->next;
             count--;
         }
-        ListNode* newhead = temp->next;
-        temp->next = NULL;
+        ListNode* newhead = newtail->next;
+        newtail->next = NULL;
         return newhead;
     }
 };
