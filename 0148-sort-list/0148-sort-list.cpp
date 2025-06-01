@@ -10,6 +10,7 @@
  */
 class Solution {
 public:
+    /*
     ListNode* sortList(ListNode* head) {
         if(head == NULL || head->next == NULL)
             return head;
@@ -28,8 +29,7 @@ public:
             temp = temp->next;
         }
         return head;
-    }
-    /*
+    }*/
     ListNode* middleofll(ListNode* head){  
         if(head == NULL || head->next == NULL)
             return head;                       
@@ -74,5 +74,4 @@ public:
         righthead = sortList(righthead);
         return merge2sortedlists(lefthead, righthead);
     }
-    */
 };
