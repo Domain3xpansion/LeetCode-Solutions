@@ -10,6 +10,26 @@
  */
 class Solution {
 public:
+    ListNode* sortList(ListNode* head) {
+        if(head == NULL || head->next == NULL)
+            return head;
+        vector<int> vec;
+        int i=0;
+        ListNode* temp = head;
+        while(temp != NULL){         
+            vec.push_back(temp->val);
+            temp = temp->next;
+        }
+        sort(vec.begin(), vec.end());      
+        temp = head;
+        while(temp != NULL){        
+            temp->val = vec[i];
+            i++;
+            temp = temp->next;
+        }
+        return head;
+    }
+    /*
     ListNode* middleofll(ListNode* head){  
         if(head == NULL || head->next == NULL)
             return head;                       
@@ -54,4 +74,5 @@ public:
         righthead = sortList(righthead);
         return merge2sortedlists(lefthead, righthead);
     }
+    */
 };
