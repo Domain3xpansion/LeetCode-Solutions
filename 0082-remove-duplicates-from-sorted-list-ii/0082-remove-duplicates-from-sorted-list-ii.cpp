@@ -10,20 +10,8 @@
  */
 class Solution {
 public:
-    ListNode* reverseList(ListNode* head){
-        if(head == NULL || head->next == NULL) return head;
-        ListNode* temp = head;
-        ListNode* prev = NULL;
-        while(temp != NULL){
-            ListNode* nexxt = temp->next;
-            temp->next = prev;
-            prev = temp;
-            temp = nexxt;
-        }
-        return prev;           
-    }
     ListNode* deleteDuplicates(ListNode* head) {
-        if(head == NULL)
+        /*if(head == NULL)
             return head;
         map<int, int> um;
         ListNode* temp = head;
@@ -45,7 +33,22 @@ public:
                 }
             }
         }
-        return head2;
-        //return reverseList(head2);
+        return head2;*/
+        ListNode* dummynode = new ListNode(-1);
+        dummynode->next = head;
+        ListNode* current = head;
+        ListNode* prev = dummynode;
+        while(current != NULL){
+            if(current->next != NULL && current->val == current->next->val){
+                while(current->next != NULL && current->val == current->next->val){
+                    current = current->next;
+                }
+                prev->next = current->next;
+            }else{
+                prev = prev->next;
+            }
+            current = current->next;
+        }
+        return dummynode->next;
     }
 };
