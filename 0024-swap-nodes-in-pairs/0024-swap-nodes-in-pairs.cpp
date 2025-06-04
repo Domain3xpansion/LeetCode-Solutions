@@ -15,14 +15,14 @@ public:
             return head;
         ListNode* prev2 = NULL;
         ListNode* prev = head;
-        ListNode* curr = head->next;
+        ListNode* curr = head->next;     // this node will become the first node after swapping
         while(curr != NULL){
-            prev->next = curr->next;
-            curr->next = prev;
-            if(head == curr->next)
-                head = curr;
-            else
-                prev2->next = curr;
+            prev->next = curr->next;    // make 1st node of pair point to whatever comes after 2nd node
+            curr->next = prev;     // make 2nd node point to 1st node
+            if(head == curr->next)    // for swapping the very first pair
+                head = curr;     // make head to point to curr (the new 1st node of linked list)
+            else   // for subsequent pairs, connect last node of previous pair point to curr (new first node of current pair)
+                prev2->next = curr;      
             prev2 = prev;
             prev = prev->next;
             if(prev != NULL)
