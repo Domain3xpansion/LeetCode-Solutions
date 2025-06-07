@@ -18,8 +18,8 @@ public:
         vector<vector<int>> res(s.begin(), s.end());
         return res;*/
 
-        
-        /*int n = nums.size();
+        /* Better solution
+        int n = nums.size();
         set<vector<int>> unique_triplet;
         for(int i=0;i<n;i++){
             set<int> s;
@@ -36,6 +36,7 @@ public:
         vector<vector<int>> res(unique_triplet.begin(), unique_triplet.end());
         return res;*/
         
+        // Optimal solution
         int n = nums.size();
         vector<vector<int>> res;
         sort(nums.begin(), nums.end());
