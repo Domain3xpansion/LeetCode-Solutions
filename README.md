@@ -39,6 +39,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1848-sum-of-unique-elements](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -127,6 +129,7 @@
 | [0189-rotate-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
+| [0229-majority-element-ii](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -200,6 +203,7 @@
 | [0088-merge-sorted-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0917-boats-to-save-people](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
