@@ -124,6 +124,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -260,6 +261,7 @@
 | [0062-unique-paths](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
