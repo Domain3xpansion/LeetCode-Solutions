@@ -9,7 +9,7 @@ public:
         while(i<num){
             char ch = s[i];
             int count = 1;
-            while(i<num-1 && s[i] == s[i+1]){
+            while(s[i] == s[i+1]){
                 count++;
                 i++;
             }
