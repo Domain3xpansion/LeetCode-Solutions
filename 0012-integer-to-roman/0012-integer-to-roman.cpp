@@ -7,14 +7,13 @@ public:
             {100, "C"}, {90, "XC"}, {50, "L"}, {40, "XL"},
             {10, "X"}, {9, "IX"}, {5, "V"}, {4, "IV"}, {1, "I"}
         };
-        for(auto it = conv.begin(); it != conv.end(); ++it){
+        for(auto it = conv.begin(); it != conv.end(); it++){
             if(num == 0)
                 break;
-            int x = num/it->first;
-            while(x--){
-                result += it->second;
+            while(num >= it->first){
+                result = result + it->second;
+                num = num - it->first;
             }
-            num = num%it->first;
         }
         return result;
     }
