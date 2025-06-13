@@ -75,6 +75,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1260-day-of-the-year](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1260-day-of-the-year) |
 | [1542-consecutive-characters](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1542-consecutive-characters) |
+| [1666-make-the-string-great](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1666-make-the-string-great) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -377,6 +378,7 @@
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1666-make-the-string-great](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1666-make-the-string-great) |
 ## Merge Sort
 |  |
 | ------- |
