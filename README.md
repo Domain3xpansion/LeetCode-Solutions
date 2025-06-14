@@ -21,6 +21,7 @@
 | [0371-sum-of-two-integers](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0935-orderly-queue](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0935-orderly-queue) |
 | [1013-fibonacci-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1260-day-of-the-year](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1260-day-of-the-year) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -74,6 +75,7 @@
 | [0742-to-lower-case](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0812-rotate-string) |
+| [0935-orderly-queue](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0935-orderly-queue) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1260-day-of-the-year](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1260-day-of-the-year) |
@@ -225,6 +227,7 @@
 | [0268-missing-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0917-boats-to-save-people](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
+| [0935-orderly-queue](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0935-orderly-queue) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
