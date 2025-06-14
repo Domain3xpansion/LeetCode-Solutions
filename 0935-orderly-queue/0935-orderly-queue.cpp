@@ -4,7 +4,7 @@ public:
         if(k == 1){
             string res = s;
             int n = s.size();
-            for(int i=0; i<n; i++){
+            for(int i=1; i<n; i++){
                 string rotate = s.substr(i) + s.substr(0, i);
                 res = min(res, rotate);
             }
