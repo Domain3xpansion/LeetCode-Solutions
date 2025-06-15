@@ -71,6 +71,7 @@
 | [0344-reverse-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0472-concatenated-words](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [0520-detect-capital](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
@@ -153,6 +154,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0472-concatenated-words](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [0485-max-consecutive-ones](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0792-binary-search) |
@@ -284,6 +286,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0338-counting-bits) |
+| [0472-concatenated-words](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [1013-fibonacci-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -336,6 +339,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0472-concatenated-words](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [0547-number-of-provinces](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
@@ -395,4 +399,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0148-sort-list) |
+## Trie
+|  |
+| ------- |
+| [0472-concatenated-words](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 <!---LeetCode Topics End-->
