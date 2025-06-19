@@ -81,6 +81,7 @@
 | [0782-jewels-and-stones](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [0889-buddy-strings](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0889-buddy-strings) |
+| [0916-decoded-string-at-index](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0916-decoded-string-at-index) |
 | [0935-orderly-queue](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0935-orderly-queue) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -406,6 +407,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0916-decoded-string-at-index](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0916-decoded-string-at-index) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1666-make-the-string-great) |
 ## Merge Sort
