@@ -1,7 +1,7 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        int n = s.size();
+        /*int n = s.size();
         for(int i=0; i<n; i++){
             if(s[i] != ' '){
                 int j = i;
@@ -17,6 +17,14 @@ public:
                 i = j;
             }
         }
-        return s;
+        return s;*/
+
+        stringstream str(s);
+        string token = "", res = "";
+        while(str >> token){
+            reverse(token.begin(), token.end());
+            res += token + " ";
+        }
+        return res.substr(0, res.size()-1);
     }
 };
