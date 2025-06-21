@@ -26,6 +26,7 @@
 | [1260-day-of-the-year](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1260-day-of-the-year) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2383-add-two-integers](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2383-add-two-integers) |
 ## Hash Table
 |  |
@@ -93,6 +94,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Queue
