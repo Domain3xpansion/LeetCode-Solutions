@@ -1,8 +1,7 @@
 class Solution {
 public:
-    int n;
     bool isValid(string str){
-        if(str[0] == '0')
+        if(str[0] == '0' && str.size() > 1)
             return false;
         int val = stoi(str);
         return val <= 255;
@@ -12,16 +11,16 @@ public:
         if(parts == 4 && index == n){
             curr.pop_back();
             ans.push_back(curr);
+            return;
         }
-        if(index + 1 <= n){
+        if(index + 1 <= n)
             solve(s, index + 1, parts + 1, curr + s.substr(index, 1) + ".", ans, n);
-        }
         if(index + 2 <= n && isValid(s.substr(index, 2)))
             solve(s, index + 2, parts + 1, curr + s.substr(index, 2) + ".", ans, n);
         if(index + 3 <= n && isValid(s.substr(index, 3)))
             solve(s, index + 3, parts + 1, curr + s.substr(index, 3) + ".", ans, n);
     }
-    
+
     vector<string> restoreIpAddresses(string s) {
         int n = s.size();
         if(n>12)
