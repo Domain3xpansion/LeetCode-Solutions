@@ -3,7 +3,7 @@ public:
     string leftJustify(const vector<string>& words, int diff, int i, int j){
         int spacesOnRight = diff - (j - i - 1);
         string result = words[i];
-        for (int k=i+1; k<j; ++k){
+        for(int k=i+1; k<j; k++){
             result += " " + words[k];
         }
         result += string(spacesOnRight, ' ');
@@ -25,15 +25,14 @@ public:
     vector<string> fullJustify(vector<string>& words, int maxWidth){
         vector<string> result;
         int i=0, n=words.size();
-        while(i < n){
+        while(i<n){
             int j = i + 1;
             int lineLength = words[i].length();
-            while (j<n && (lineLength + words[j].length() + (j - i - 1) < maxWidth)){
+            while(j<n && (lineLength + words[j].length() + (j - i - 1) < maxWidth)){
                 lineLength += words[j].length();
                 j++;
             }
-            int diff = maxWidth - lineLength;
-            int numberOfWords = j - i;
+            int diff = maxWidth - lineLength, numberOfWords = j - i;
             if(numberOfWords == 1 || j >= n)
                 result.push_back(leftJustify(words, diff, i, j));
             else
