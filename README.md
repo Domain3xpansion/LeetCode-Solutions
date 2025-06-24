@@ -56,6 +56,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1848-sum-of-unique-elements](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2107-find-unique-binary-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2117-find-original-array-from-doubled-array) |
 | [3210-count-beautiful-substrings-i](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -103,6 +104,7 @@
 | [1823-determine-if-string-halves-are-alike](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2107-find-unique-binary-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2887-sort-vowels-in-a-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3210-count-beautiful-substrings-i](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
@@ -191,6 +193,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1848-sum-of-unique-elements](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2107-find-unique-binary-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -431,6 +434,7 @@
 | [0090-subsets-ii](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0216-combination-sum-iii](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
+| [2107-find-unique-binary-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2107-find-unique-binary-string) |
 ## Stack
 |  |
 | ------- |
