@@ -27,6 +27,7 @@
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1885-count-number-of-homogenous-substrings) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2383-add-two-integers](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2383-add-two-integers) |
 | [3210-count-beautiful-substrings-i](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 ## Hash Table
@@ -102,6 +103,7 @@
 | [1823-determine-if-string-halves-are-alike](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2887-sort-vowels-in-a-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3210-count-beautiful-substrings-i](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -191,6 +193,7 @@
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3723-sum-of-good-numbers](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3723-sum-of-good-numbers) |
@@ -338,6 +341,7 @@
 | [0898-transpose-matrix](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Linked List
 |  |
