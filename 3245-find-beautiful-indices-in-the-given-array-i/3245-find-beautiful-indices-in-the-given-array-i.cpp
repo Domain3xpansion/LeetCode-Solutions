@@ -53,7 +53,7 @@ public:
         vector<int> result;
         for(auto &i : i_indices){
             for(auto &j : j_indices){
-                if(abs(i-j) <= k){
+                if(abs(j-i) <= k){
                     result.push_back(i);
                     break;
                 }
