@@ -64,6 +64,7 @@
 | [2117-find-original-array-from-doubled-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2117-find-original-array-from-doubled-array) |
 | [3210-count-beautiful-substrings-i](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
@@ -119,6 +120,7 @@
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Queue
 |  |
@@ -136,6 +138,7 @@
 | [1823-determine-if-string-halves-are-alike](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3778-transform-array-by-parity](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3778-transform-array-by-parity) |
 ## Recursion
