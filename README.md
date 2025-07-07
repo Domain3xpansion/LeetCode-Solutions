@@ -55,6 +55,7 @@
 | [0782-jewels-and-stones](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0807-custom-sort-string) |
 | [0889-buddy-strings](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0889-buddy-strings) |
+| [0952-word-subsets](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
@@ -101,6 +102,7 @@
 | [0889-buddy-strings](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0889-buddy-strings) |
 | [0916-decoded-string-at-index](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0916-decoded-string-at-index) |
 | [0935-orderly-queue](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0935-orderly-queue) |
+| [0952-word-subsets](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1260-day-of-the-year](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1260-day-of-the-year) |
@@ -202,6 +204,7 @@
 | [0861-flipping-an-image](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
+| [0952-word-subsets](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1253-sort-the-matrix-diagonally) |
