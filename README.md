@@ -210,6 +210,7 @@
 | [0952-word-subsets](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1044-find-common-characters) |
+| [1137-height-checker](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -295,6 +296,7 @@
 | [0807-custom-sort-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0807-custom-sort-string) |
 | [0917-boats-to-save-people](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0935-orderly-queue](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0935-orderly-queue) |
+| [1137-height-checker](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
@@ -512,4 +514,8 @@
 | ------- |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
