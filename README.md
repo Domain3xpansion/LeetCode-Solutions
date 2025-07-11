@@ -118,6 +118,7 @@
 | [1885-count-number-of-homogenous-substrings](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2107-find-unique-binary-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2107-find-unique-binary-string) |
+| [2232-adding-spaces-to-a-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2887-sort-vowels-in-a-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
@@ -221,6 +222,7 @@
 | [2107-find-unique-binary-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
+| [2232-adding-spaces-to-a-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -267,6 +269,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2232-adding-spaces-to-a-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
@@ -315,6 +318,7 @@
 | [0874-backspace-string-compare](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
+| [2232-adding-spaces-to-a-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String Matching
 |  |
