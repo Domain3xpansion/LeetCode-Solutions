@@ -3,7 +3,6 @@ public:
     int maximumSwap(int num) {
         string str_equiv = to_string(num);
         int n = str_equiv.size();
-        int max = INT_MIN;
         vector<int> max_right(n, 0);
         max_right[n-1] = n-1;
         for(int i=n-2; i>=0; i--){
