@@ -223,6 +223,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1848-sum-of-unique-elements](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2058-concatenation-of-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
@@ -325,6 +326,7 @@
 | [0861-flipping-an-image](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
+| [2058-concatenation-of-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2232-adding-spaces-to-a-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
