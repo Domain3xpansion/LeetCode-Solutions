@@ -21,6 +21,7 @@
 | [0268-missing-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [0728-self-dividing-numbers](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
@@ -352,6 +353,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0441-arranging-coins](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
