@@ -212,6 +212,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0472-concatenated-words](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [0485-max-consecutive-ones](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
@@ -360,6 +361,7 @@
 | [0268-missing-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
