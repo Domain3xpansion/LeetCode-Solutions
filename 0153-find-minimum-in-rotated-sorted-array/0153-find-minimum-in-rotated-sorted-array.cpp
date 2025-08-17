@@ -7,7 +7,7 @@ public:
             if(nums[low] <= nums[mid]){
                 if(nums[low] < min)
                     min = nums[low];
-                    low = mid+1;
+                low = mid+1;
             }else{ 
                 if(nums[mid] < min)                                     
                     min = nums[mid];
