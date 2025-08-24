@@ -218,6 +218,7 @@
 | [0792-binary-search](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
+| [0907-koko-eating-bananas](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0952-word-subsets](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
@@ -366,6 +367,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
