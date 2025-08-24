@@ -9,8 +9,7 @@ public:
         return hour;
     }
     int minEatingSpeed(vector<int>& piles, int h) {
-        auto max_it = std::max_element(piles.begin(), piles.end());
-        int low = 1, high = *max_it;
+        int low = 1, high = *max_element(piles.begin(), piles.end());
         while(low <= high){
             long mid = low + (high - low)/2;
             long hours = calc_time(piles, mid);
