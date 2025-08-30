@@ -3,9 +3,9 @@ public:
     double timetaken(vector<int>& dist, long mid){
         double t = 0;
         int n = dist.size();
-        for(int i = 0; i < n; ++i){
-            double time = (double)dist[i] / mid;
-            if(i != n - 1)
+        for(int i=0; i<n; i++){
+            double time = (double)dist[i] / (double)mid;
+            if(i != n-1)
                 t += ceil(time);
             else
                 t += time;
