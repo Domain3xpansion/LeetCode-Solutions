@@ -7,7 +7,7 @@ public:
         }
         return summ;
     }
-    int splitarr(vector<int>& nums, int k, int mid){
+    int splitarr(vector<int>& nums, int mid){
         int summ = 0, noofsubarr = 1;
         for(int i=0; i<nums.size(); i++){
             if(summ + nums[i]>mid){
@@ -23,7 +23,7 @@ public:
         int low = *max_element(nums.begin(), nums.end()), high = summation(nums);
         while(low <= high){
             int mid = low + (high - low)/2;
-            if(splitarr(nums, k, mid) > k)
+            if(splitarr(nums, mid) > k)
                 low = mid + 1;
             else
                 high = mid - 1;
