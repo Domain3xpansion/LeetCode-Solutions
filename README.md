@@ -25,6 +25,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [0728-self-dividing-numbers](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
+| [0797-rabbits-in-forest](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0935-orderly-queue](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0935-orderly-queue) |
 | [1013-fibonacci-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1260-day-of-the-year](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1260-day-of-the-year) |
@@ -58,6 +59,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
+| [0797-rabbits-in-forest](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0807-custom-sort-string) |
 | [0889-buddy-strings](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0889-buddy-strings) |
 | [0952-word-subsets](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0952-word-subsets) |
@@ -219,6 +221,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0792-binary-search) |
+| [0797-rabbits-in-forest](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0861-flipping-an-image](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
@@ -307,6 +310,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0670-maximum-swap](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0670-maximum-swap) |
+| [0797-rabbits-in-forest](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2117-find-original-array-from-doubled-array) |
