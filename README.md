@@ -208,6 +208,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
@@ -423,6 +424,7 @@
 | [0118-pascals-triangle](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
