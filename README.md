@@ -259,6 +259,7 @@
 | [3731-sum-of-variable-length-subarrays](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3778-transform-array-by-parity) |
+| [4041-climbing-stairs-ii](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/4041-climbing-stairs-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -426,6 +427,7 @@
 | [0410-split-array-largest-sum](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0472-concatenated-words](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [1013-fibonacci-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+| [4041-climbing-stairs-ii](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/4041-climbing-stairs-ii) |
 ## Memoization
 |  |
 | ------- |
