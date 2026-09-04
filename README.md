@@ -222,6 +222,7 @@
 | [0322-coin-change](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0472-concatenated-words](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [0485-max-consecutive-ones](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -438,6 +439,7 @@
 | [0357-count-numbers-with-unique-digits](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [0747-min-cost-climbing-stairs](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
@@ -606,9 +608,14 @@
 | ------- |
 | [0279-perfect-squares](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0322-coin-change) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
