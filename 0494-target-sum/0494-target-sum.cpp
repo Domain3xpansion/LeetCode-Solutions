@@ -1,5 +1,10 @@
 class Solution {
 public:
+    /*Top down approach
+    Time complexity
+    O(n*m)
+    Space complexity
+    O(n*sum)(for 2D DP vector) + O(n)(for recursion stack) => O(n*sum) + O(n) => O(n*sum)*/
     int ts(vector<int>& nums, int pos, int target, int sum, vector<vector<int>>& dp){
         if(pos == nums.size()){
             if(target == 0)
