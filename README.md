@@ -21,6 +21,7 @@
 | [0231-power-of-two](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0279-perfect-squares) |
+| [0343-integer-break](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
@@ -439,6 +440,7 @@
 | [0279-perfect-squares](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
