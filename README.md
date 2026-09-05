@@ -222,6 +222,7 @@
 | [0283-move-zeroes](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -443,6 +444,7 @@
 | [0343-integer-break](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0403-frog-jump](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0472-concatenated-words) |
