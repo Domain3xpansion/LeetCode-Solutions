@@ -1,6 +1,7 @@
 class Solution {
 public:
     int ib(int n, vector<int>& dp){
+        // Top down DP
         if(n == 1)   // base case because you cant break 1 into anything
             return 1;
         if(dp[n] != -1)
