@@ -1,5 +1,11 @@
 class Solution {
 public:
+    /* Top down approach
+    Time Complexity
+    O(s Ã m Ã n Ã L) where,
+    s = no of strings in strs array, m = no of zeroes, n = no of ones and l = length of each string present in strs array(traversing each string to find out no of zeroes in line no 14)
+    Space Complexity
+    O(s * m * n) (because DP array is a 3d one) + O(s) (recursion can go as deep as S, so the recursion stack uses) => O(smn + s) => O(smn)*/
     int oaz(vector<string>& strss, int pos, int m, int n, vector<vector<vector<int>>>& dp){
         if(pos == strss.size())
             return 0;
