@@ -245,6 +245,7 @@
 | [0981-delete-columns-to-make-sorted](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1044-find-common-characters) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1137-height-checker](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1253-sort-the-matrix-diagonally) |
@@ -461,6 +462,7 @@
 | [0494-target-sum](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [4041-climbing-stairs-ii](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/4041-climbing-stairs-ii) |
 ## Memoization
@@ -644,4 +646,12 @@
 | [0416-partition-equal-subset-sum](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0494-target-sum) |
+## Triangulation
+|  |
+| ------- |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+## Polygons
+|  |
+| ------- |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 <!---LeetCode Topics End-->
