@@ -14,6 +14,7 @@
 | [0062-unique-paths](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -441,6 +442,7 @@
 | [0062-unique-paths](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -557,10 +559,12 @@
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 ## Combinatorics
 |  |
@@ -654,4 +658,8 @@
 |  |
 | ------- |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
