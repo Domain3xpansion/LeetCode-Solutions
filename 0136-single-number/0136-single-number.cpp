@@ -1,13 +1,13 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        /*int res = 0;
+        int res = 0;
         for(int val: nums)
             res = res ^ val;
-        return res;*/
+        return res;
 
         // Better approach
-        unordered_map<int, int> hashmap;
+        /*unordered_map<int, int> hashmap;
         for(int x: nums){
             hashmap[x]++;
         }
@@ -15,6 +15,6 @@ public:
             if(val.second == 1)
                 return val.first;
         }
-        return -1;
+        return -1;*/
     }
 };
