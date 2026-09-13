@@ -1,12 +1,16 @@
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
-        int maxEndingHere = nums[0];
-        int maxSoFar = nums[0];
-        for(int i=1; i<nums.size(); i++){
-            maxEndingHere = max(maxEndingHere + nums[i], nums[i]);
-            maxSoFar = max(maxSoFar, maxEndingHere);
+        // Optimal approach using Kadanes algo
+        // For brute and better approaches, refer my Github
+        int sum = 0, maxi = INT_MIN;
+        for(int i = 0; i < nums.size(); i++){
+            sum += nums[i];
+            if(sum > maxi)
+                maxi = sum;
+            if(sum < 0)
+                sum = 0;
         }
-        return maxSoFar;
+        return maxi;
     }
 };
