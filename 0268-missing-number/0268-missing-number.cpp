@@ -1,6 +1,7 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
+        // Optimal
         /*int res = 0;
         for(int val: nums){
             res = res ^ val;
@@ -25,11 +26,12 @@ public:
         return -1;*/
 
         // Better
+        
         unordered_map<int, int> hashmap;
         for(int x: nums){
             hashmap[x]++;
         }
-        for(int i=0; i<=nums.size(); i++){
+        for(int i = 0; i <= nums.size(); i++){
             if(hashmap[i] == 0)
                 return i;
         }
