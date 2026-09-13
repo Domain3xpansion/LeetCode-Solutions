@@ -11,7 +11,7 @@ public:
         return res;*/
 
         // Brute force
-        for(int i=0; i<=nums.size(); i++){
+        /*for(int i=0; i<=nums.size(); i++){
             int flag = 0;
             for(int j=0; j<nums.size(); j++){
                 if(i == nums[j]){
@@ -20,6 +20,17 @@ public:
                 }
             }
             if(flag == 0)
+                return i;
+        }
+        return -1;*/
+
+        // Better
+        unordered_map<int, int> hashmap;
+        for(int x: nums){
+            hashmap[x]++;
+        }
+        for(int i=0; i<=nums.size(); i++){
+            if(hashmap[i] == 0)
                 return i;
         }
         return -1;
