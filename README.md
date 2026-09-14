@@ -602,6 +602,7 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0874-backspace-string-compare](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
@@ -673,4 +674,8 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
