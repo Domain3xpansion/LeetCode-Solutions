@@ -20,6 +20,8 @@ public:
                 }
         }
         return res;*/
+
+        // Stack approach
         vector<int> res, nge(nums2.size(), 0);     // nge stores the next greater element of every position in nums2
         stack<int> st;
         for(int i = nums2.size() - 1; i >= 0; i--){   
@@ -31,7 +33,7 @@ public:
                 nge[i] = st.top();
             st.push(nums2[i]);
         }
-        for(int x : nums1){        // O(n1 Ã n2)
+        for(int x : nums1){
             auto it = find(nums2.begin(), nums2.end(), x);
             int pos = it - nums2.begin();
             res.push_back(nge[pos]);
