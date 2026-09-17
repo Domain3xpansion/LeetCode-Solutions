@@ -19,15 +19,15 @@ public:
         int n = nums1.size();
         stack<int> st;
         st.push(-1);
-        vector<int> nse(n, 0);
+        vector<int> pse(n, 0);
         for(int i=0; i<n; i++){
             while(st.top() != -1 && nums1[st.top()] >= nums1[i]){
                 st.pop();
             }
-            nse[i] = st.top();
+            pse[i] = st.top();
             st.push(i); 
         }
-        return nse;
+        return pse;
     }
 
     int largestRectangleArea(vector<int>& heights) {
