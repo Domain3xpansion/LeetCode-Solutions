@@ -149,6 +149,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0860-design-circular-queue](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0860-design-circular-queue) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 ## Counting
 |  |
@@ -247,6 +248,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
+| [0860-design-circular-queue](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0860-design-circular-queue) |
 | [0861-flipping-an-image](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
@@ -527,6 +529,7 @@
 | [0206-reverse-linked-list](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
+| [0860-design-circular-queue](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
@@ -693,6 +696,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0860-design-circular-queue](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0860-design-circular-queue) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
