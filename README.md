@@ -243,6 +243,7 @@
 | [0485-max-consecutive-ones](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0747-min-cost-climbing-stairs](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
@@ -619,6 +620,7 @@
 | [0234-palindrome-linked-list](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0874-backspace-string-compare](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0916-decoded-string-at-index](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0916-decoded-string-at-index) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -639,6 +641,7 @@
 | [0085-maximal-rectangle](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 ## Enumeration
 |  |
 | ------- |
