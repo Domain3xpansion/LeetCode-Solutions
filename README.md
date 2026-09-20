@@ -148,6 +148,7 @@
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0860-design-circular-queue](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0860-design-circular-queue) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
@@ -228,6 +229,7 @@
 | [0213-house-robber-ii](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -704,8 +706,21 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
