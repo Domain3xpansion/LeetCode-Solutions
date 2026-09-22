@@ -31,7 +31,7 @@ public:
         }
         return pse;
     }
-    int sumSubarrayMins(vector<int>& arr) {
+    long long sumSubarrayMins(vector<int>& arr) {
         // Brute force
         /*int sum = 0;
         for(int i=0; i<arr.size(); i++){
@@ -43,12 +43,12 @@ public:
         }
         return sum;*/
 
-        int n = arr.size(), total = 0, mod = (int)1e9 + 7;
+        long long n = arr.size(), total = 0, mod = 1e9 + 7;
         vector<int> nse = nextsmallerelementstack(arr);
         vector<int> pse = previoussmallerelemopt(arr);
         for(int i = 0; i < n; i++){
-            int left = i - pse[i];
-            int right = nse[i] - i;
+            long long left = i - pse[i];
+            long long right = nse[i] - i;
             long long contribution = (right * left) % mod;
             contribution = (contribution * arr[i]) % mod;
             total = (total + contribution) % mod;
