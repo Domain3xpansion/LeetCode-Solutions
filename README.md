@@ -286,6 +286,7 @@
 | [2117-find-original-array-from-doubled-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
+| [2227-sum-of-subarray-ranges](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2232-adding-spaces-to-a-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -634,6 +635,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1666-make-the-string-great) |
+| [2227-sum-of-subarray-ranges](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Merge Sort
 |  |
 | ------- |
@@ -651,6 +653,7 @@
 | [0496-next-greater-element-i](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Enumeration
 |  |
 | ------- |
