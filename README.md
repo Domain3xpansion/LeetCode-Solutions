@@ -130,6 +130,7 @@
 | [1044-find-common-characters](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1260-day-of-the-year](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1260-day-of-the-year) |
+| [1454-remove-palindromic-subsequences](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1454-remove-palindromic-subsequences) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1542-consecutive-characters](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1542-consecutive-characters) |
 | [1666-make-the-string-great](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1666-make-the-string-great) |
@@ -337,6 +338,7 @@
 | [0874-backspace-string-compare](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
+| [1454-remove-palindromic-subsequences](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1454-remove-palindromic-subsequences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
