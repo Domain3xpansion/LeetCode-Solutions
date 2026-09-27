@@ -75,6 +75,7 @@
 | [1044-find-common-characters](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1044-find-common-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1502-construct-k-palindrome-strings](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1848-sum-of-unique-elements](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -132,6 +133,7 @@
 | [1260-day-of-the-year](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1260-day-of-the-year) |
 | [1454-remove-palindromic-subsequences](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1454-remove-palindromic-subsequences) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1502-construct-k-palindrome-strings](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1542-consecutive-characters](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1542-consecutive-characters) |
 | [1666-make-the-string-great](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1666-make-the-string-great) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
@@ -164,6 +166,7 @@
 | [0229-majority-element-ii](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1502-construct-k-palindrome-strings](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1848-sum-of-unique-elements) |
@@ -361,6 +364,7 @@
 | [0797-rabbits-in-forest](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1502-construct-k-palindrome-strings](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
