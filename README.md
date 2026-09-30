@@ -144,6 +144,7 @@
 | [1885-count-number-of-homogenous-substrings](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2107-find-unique-binary-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2107-find-unique-binary-string) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -297,6 +298,7 @@
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2227-sum-of-subarray-ranges](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -349,6 +351,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
