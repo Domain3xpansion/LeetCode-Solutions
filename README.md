@@ -262,6 +262,7 @@
 | [0503-next-greater-element-ii](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
@@ -575,6 +576,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [3210-count-beautiful-substrings-i](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3731-sum-of-variable-length-subarrays) |
