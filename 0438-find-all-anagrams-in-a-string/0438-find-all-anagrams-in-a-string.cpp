@@ -1,7 +1,8 @@
 class Solution {
 public:
     vector<int> findAnagrams(string s, string p) {
-        int l = 0, r = p.size() - 1, n = s.size();;
+        // Brute force
+        /*int l = 0, r = p.size() - 1, n = s.size();;
         int freq_p[26] = {0};
         for(char c : p){
             freq_p[c - 'a']++;
@@ -14,7 +15,7 @@ public:
             }
             bool same = true;
             for(int i = 0; i < 26; i++){
-                if (freq_s[i] != freq_p[i]){
+                if(freq_s[i] != freq_p[i]){
                     same = false;
                     break;
                 }
@@ -23,6 +24,36 @@ public:
                 startindices.push_back(l);
             l++;
             r++;
+        }
+        return startindices;*/
+
+        if(p.size() > s.size())
+            return {};
+        int l = 0, r = p.size() - 1, n = s.size();;
+        int freq_p[26] = {0}, freq_s[26] = {0};
+        for(char c : p){
+            freq_p[c - 'a']++;
+        }
+        for(int i=0; i<=r; i++){
+            freq_s[s[i] - 'a']++;
+        }
+        vector<int> startindices;
+        while(r<n){
+            bool same = true;
+            for(int i = 0; i < 26; i++){
+                if(freq_s[i] != freq_p[i]){
+                    same = false;
+                    break;
+                }
+            }
+            if(same)
+                startindices.push_back(l);
+
+            freq_s[s[l]-'a']--;
+            l++;
+            r++;
+            if(r<n)
+                freq_s[s[r]-'a']++;
         }
         return startindices;
     }
