@@ -13,14 +13,14 @@ public:
 
         unordered_set<int> seen;
         int i=0, j=0;
-        while(j<=nums.size()){
-            while(j-i <= k){
+        while(j<nums.size()){
+            while(j-i <= k && j < nums.size()){    // same as abs(i-j) <= k
                 if(seen.count(nums[j]))
                     return true;
                 seen.insert(nums[j]);
                 j++;
-                if(j == nums.size())
-                    return false;
+                /*if(j == nums.size())    // this if block was added because run time error is coming on submission
+                    return false;*/
             }
             seen.erase(nums[i]);
             i++;
