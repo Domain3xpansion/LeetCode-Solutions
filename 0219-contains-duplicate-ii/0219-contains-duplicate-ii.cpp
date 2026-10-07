@@ -19,8 +19,6 @@ public:
                     return true;
                 seen.insert(nums[j]);
                 j++;
-                /*if(j == nums.size())    // this if block was added because run time error is coming on submission
-                    return false;*/
             }
             seen.erase(nums[i]);
             i++;
