@@ -66,6 +66,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -116,6 +117,7 @@
 | [0402-remove-k-digits](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
@@ -767,6 +769,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
