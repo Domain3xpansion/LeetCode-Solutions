@@ -271,6 +271,7 @@
 | [0503-next-greater-element-ii](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0792-binary-search) |
@@ -772,6 +773,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Heap (Priority Queue)
