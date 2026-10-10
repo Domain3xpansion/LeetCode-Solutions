@@ -40,6 +40,7 @@
 | [1885-count-number-of-homogenous-substrings](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2383-add-two-integers](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2383-add-two-integers) |
+| [2605-count-anagrams](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2605-count-anagrams) |
 | [3210-count-beautiful-substrings-i](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 ## Hash Table
@@ -87,6 +88,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2107-find-unique-binary-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2117-find-original-array-from-doubled-array) |
+| [2605-count-anagrams](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2605-count-anagrams) |
 | [3210-count-beautiful-substrings-i](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -156,6 +158,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [2605-count-anagrams](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2605-count-anagrams) |
 | [2887-sort-vowels-in-a-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3210-count-beautiful-substrings-i](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
@@ -181,6 +184,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1848-sum-of-unique-elements) |
+| [2605-count-anagrams](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2605-count-anagrams) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -640,6 +644,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [2605-count-anagrams](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2605-count-anagrams) |
 ## Backtracking
 |  |
 | ------- |
@@ -784,4 +789,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [2605-count-anagrams](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/2605-count-anagrams) |
 <!---LeetCode Topics End-->
