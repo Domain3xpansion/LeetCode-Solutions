@@ -20,13 +20,9 @@ public:
             if(nums[j] == 0)
                 zeroes++;
             if(zeroes > k){
-                while(nums[i] != 0){
-                    i++;
-                }
-                while(zeroes > k){
-                    i++;
+                if(nums[i] == 0)
                     zeroes--;
-                }
+                i++;
             }
             length = j - i + 1;
             maxlength = max(maxlength, length);
