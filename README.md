@@ -77,6 +77,7 @@
 | [0797-rabbits-in-forest](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0807-custom-sort-string) |
 | [0889-buddy-strings](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0889-buddy-strings) |
+| [0940-fruit-into-baskets](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1044-find-common-characters](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1044-find-common-characters) |
@@ -286,6 +287,7 @@
 | [0898-transpose-matrix](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
+| [0940-fruit-into-baskets](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0952-word-subsets](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -784,6 +786,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
