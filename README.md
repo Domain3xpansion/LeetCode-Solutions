@@ -35,6 +35,7 @@
 | [0935-orderly-queue](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0935-orderly-queue) |
 | [1013-fibonacci-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1260-day-of-the-year](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1260-day-of-the-year) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -82,6 +83,7 @@
 | [0952-word-subsets](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1044-find-common-characters](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1044-find-common-characters) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -304,6 +306,7 @@
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -606,6 +609,7 @@
 | [0724-find-pivot-index](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [3210-count-beautiful-substrings-i](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
@@ -794,6 +798,7 @@
 | [0940-fruit-into-baskets](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Heap (Priority Queue)
