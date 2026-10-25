@@ -75,6 +75,7 @@
 | [0496-next-greater-element-i](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0645-set-mismatch](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0807-custom-sort-string) |
@@ -285,6 +286,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
@@ -426,6 +428,7 @@
 | [0268-missing-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
+| [0645-set-mismatch](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0807-custom-sort-string](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0807-custom-sort-string) |
 | [0917-boats-to-save-people](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0935-orderly-queue](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0935-orderly-queue) |
@@ -511,6 +514,7 @@
 | [0338-counting-bits](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0397-integer-replacement](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0397-integer-replacement) |
+| [0645-set-mismatch](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Domain3xpansion/LeetCode-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
