@@ -1,7 +1,8 @@
 class Solution {
 public:
     vector<int> findMissingAndRepeatedValues(vector<vector<int>>& grid) {
-        int rows = grid.size();
+        // approach 1
+        /*int rows = grid.size();
         vector<int> nums;
         for(int p = 0; p < rows * rows; p++){
             int i = p / rows;  // row = 1
@@ -20,6 +21,28 @@ public:
             if(count == 0)
                 missing = i;
         }
-        return {repeat, missing};
+        return {repeat, missing};*/
+
+        //approach 2
+        int rows = grid.size();
+        vector<int> nums;
+        for(int p = 0; p < rows * rows; p++){
+            int i = p / rows;  // row = 1
+            int j = p % rows;  // col = 1
+            nums.push_back(grid[i][j]);
+        }
+        int n = nums.size();
+        long long S = 1LL * n * (n + 1) / 2;
+        long long S_squared = 1LL * n * (n + 1) * (2LL * n + 1) / 6, Snums = 0, Snums_squared = 0;
+        for(int i=0; i<n; i++){
+            Snums += nums[i];
+            Snums_squared += nums[i] * nums[i];
+        }
+        long long value1 = Snums - S;      // a-b
+        long long value2 = Snums_squared - S_squared;    // (a-b)(a+b)
+        long long aplusb = value2/value1;
+        long long repeat = (aplusb + value1)/2;
+        long long missing = repeat - value1;
+        return {(int)repeat, (int)missing};
     }
 };
